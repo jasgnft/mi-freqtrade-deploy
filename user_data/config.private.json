@@ -1,0 +1,18 @@
+{
+  "exchange": {
+    "key": "D91nA2305IM1zONVJMRwnS8kwO6ziJ1WSfYSpO2svtg3M1RvQWQQ0gjZPjAH6Yuv",
+    "secret": "gFC61O8iCLVy4YBB31VMUhgVdY5RbNxRrddQc1KkAqLQwF9ZTFZu0s0VNjPzY6nq"
+  },
+  "telegram": {
+    "enabled": false,
+    "token": "5179055286:AAGLy4iSvJAumufJlgR0W8DDYtyipus0ILo",
+    "chat_id": "1923333141"
+  },
+  "api_server": {
+    "jwt_secret_key": "394b6aff34b964343ecec6177becda921e89df4af7a87ab8762605796e2d1a44",
+    "CORS_origins": ["https://$HEROKU_APP_NAME.herokuapp.com"],
+    "username": "freqtrade01",
+    "password": "misecretpass"
+  },
+  
+}
